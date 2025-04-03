@@ -14,7 +14,7 @@ Antes de iniciar el proyecto, verifique que la base de datos esté correctamente
 
 ### Paso 1: Crear la Base de Datos y la Tabla
 Script SQL para phpMyAdmin o consola de MySQL.
-´´´SQL
+´´´
 CREATE DATABASE base de datos;
 
 USE base de datos;
