@@ -13,4 +13,4 @@ Creacion del Oracle.
 
 Y tener la aplicacion movile del Oracle para darnos el acceso y poder entrar.
 
-![screen]( )
+![screen](https://github.com/Snapshotss/Snapshotss.github.io/blob/main/Oracle%20Cloud/Oraclemov.jpeg)
