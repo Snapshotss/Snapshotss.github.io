@@ -1,7 +1,8 @@
 >[!IMPORTANT]
 >
 >El chagy necesita novia, para mas info.
->En su GitHub [Git de Chagy](___)
+>
+>[GitHub de Chagy](___)
 
 # Proyecto Final
 ## Sistemas Telematicos
