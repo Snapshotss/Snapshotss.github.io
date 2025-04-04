@@ -39,4 +39,7 @@ Automáticamente se dará comienzo al proceso de creación de la instancia, tal 
 En nuestro caso se necesitas acceso remoto por SSH
 
 Si se creo el dominio de forma corrrecta, aparecera tal cual se muestra en la siguinete imagen con el nombre correspondiente al dominio.
-![screen]()
+![screen](https://github.com/Snapshotss/Snapshotss.github.io/blob/main/Oracle%20Cloud/Dominio.png)
+
+## Tener seguridad en el dominio
+Esto se hace para poder evitar algun tipo de ataque para el administrador y el usuario y no tener algun tipo de perdida de datos.
