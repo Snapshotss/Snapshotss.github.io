@@ -12,9 +12,6 @@ Creación, confirmación y ramas.
 #### ☁️Despligue de Oracle Cloud:
 Configuración de máquinas virtuales, base de datos y servicios.
 
-#### 🖥️Automarización y DivOps:
-Uso de GitHub Actions e integración con Oracle Cloud.
-
 ### 🛠️Tecnologias Utilicadas
 
 * [Oracle](https://github.com/Snapshotss/Snapshotss.github.io/blob/main/Oracle%20Cloud/READMEOraclecloud.md)
