@@ -16,24 +16,13 @@ Configuración de máquinas virtuales, base de datos y servicios.
 Uso de GitHub Actions e integración con Oracle Cloud.
 
 ### 🛠️Tecnologias Utilicadas
-*Git & GitHub
+* GitHub
+![screen](https://github.com/Snapshotss/Snapshotss.github.io/blob/main/PHP/READMEphp.md)
 
-*Oracle Cloud Infrastructure (OCI)
+*Oracle Cloud
+![screen]()
 
-*Linux & Shell Scripting
 
-*Docker & Kubernetes (si aplicaste estas herramientas)
 
-📖 Proyectos Destacados
-[Nombre del Prrffroyecto 1] – Breve descripción.
 
-[Nombre del Proyecto 2] – Breve descripción.
-
-(Agrega más si es necesario)
-
-📷 Evidencias y Capturas
-Incluye imágenes o enlaces a capturas de pantalla relevantes.
-
-📌 Conclusiones
-Reflexión sobre lo aprendido y su aplicación en proyectos futuros.
 
