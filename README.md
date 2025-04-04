@@ -2,7 +2,7 @@
 >
 >El chagy necesita novia, para mas info.
 >
->[GitHub de Chagy](___)
+>[página de Chagy](https://sheeppunk.github.io/)
 
 # Proyecto Final
 ## Sistemas Telematicos
