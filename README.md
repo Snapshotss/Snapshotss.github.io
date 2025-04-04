@@ -3,10 +3,12 @@
 Eduardo Alfonso Jiménez Jiménez Barajas.
 
 Ingenieria en Redes y Telecomunicaciones.
-![screen]()
+
+![screen](https://github.com/Snapshotss/Snapshotss.github.io/blob/main/assets/images/IRT.jpg)
 IRT
 
 Universidad Politecnica de Juventino Rosas.
+
 ![screen](https://github.com/Snapshotss/Snapshotss.github.io/blob/main/assets/images/UPJR.jpg)
 UPJR
 
