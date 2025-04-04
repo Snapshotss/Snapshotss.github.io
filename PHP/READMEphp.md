@@ -12,7 +12,7 @@ Para la tabla de registro se creara dentro de una base de datos en MySQL donde s
 ## Configuración de la Base de Datos
 Antes de iniciar el proyecto, verifique que la base de datos esté correctamente configurada.
 
-### Paso 1: 🗄Crear la Base de Datos y la Tabla
+## 🗄Crear la Base de Datos y la Tabla
 Este script SQL es para phpMyAdmin o consola de MySQL.
 
 ```sql
@@ -29,8 +29,8 @@ CREATE TABLE registro (
 );
 ```
 
-### 📄Datos
-## db_config.php - Configuración de la Conexión a la Base de Datos
+## 📄Datos
+### db_config.php - Configuración de la Conexión a la Base de Datos
 
 Esto almacena la configuración y la conexión a MySQL.
 
@@ -51,7 +51,7 @@ if ($conn->connect_error) {
 ?>
 ```
 
-## index.php - Mostrar Datos en una Tabla
+### index.php - Mostrar Datos en una Tabla
 Este script obtiene y muestra los datos que se han almacenados en la base de datos.
 
 ```sql
