@@ -6,7 +6,7 @@
 
 # Proyecto Final
 ## Sistemas Telematicos
-Eduardo Alfonso Jiménez Jiménez Barajas.
+Eduardo Alfonso Jiménez Barajas.
 
 Ingenieria en Redes y Telecomunicaciones  ⇒  IRT.
 
